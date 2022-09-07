@@ -1,0 +1,2 @@
+# TJWeirBot
+.NetDiscord Bot
